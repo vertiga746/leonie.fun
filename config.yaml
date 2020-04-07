@@ -1,0 +1,71 @@
+baseURL: https://leonie-fun.onrender.com
+languageCode: fr-FR
+defaultContentLanguage: en
+title: Site internet de Léonie Fun
+theme: cupper-hugo-theme
+disqusShortname: yourdiscussshortname
+enableGitInfo: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+params:
+  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
+  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Jan 2, 2006
+  codePenUser: someUser
+  katex: true
+
+menu:
+  nav:
+    - name: Accueil
+      url: /
+      weight: 1
+    - name: Interventions
+      url: /interventions/
+      weight: 2
+    - name: Dessins
+      url: /dessins/
+      weight: 3
+    - name: Contact
+      url: /contact/
+      weight: 4
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
