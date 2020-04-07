@@ -1,4 +1,4 @@
 baseURL = "https://leonie-fun.onrender.com/"
 languageCode = "en-us"
 title = "Site internet de Léonie Léonie"
-theme = "Cupper"
+theme = "cupper-hugo-theme"
