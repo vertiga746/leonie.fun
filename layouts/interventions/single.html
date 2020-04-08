@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <main id="main">
+    <h1>
+      {{ .Title }}
+    </h1>
+    <p>{{ .Content }}</p>
+    {{ range .Resources.ByType "image" }}
+      <img src="{{ .Permalink }}" alt="">
+    {{ end }}
+  </main>
+{{ end }}
