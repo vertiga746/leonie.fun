@@ -3,11 +3,12 @@
     <h1>{{ .Title }}</h1>
     <ul class="patterns-list">
     {{ range .Pages}}
-      <li>
+      <li class=intervention>
         <h2>
           <a href="{{ .Permalink }}">
             {{ .Title }}
-          </a>
+          </a><br/>
+          <span class="tags">{{ .Params.caption }}</span>
         </h2>
       </li>
     {{ end }}

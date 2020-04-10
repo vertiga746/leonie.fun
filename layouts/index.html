@@ -1,7 +1,13 @@
 {{ define "main" }}
   <main id="main">
     <h1>{{ .Title }}</h1>
-    {{ .Content }}
-    leonie site web
+    <div>
+      {{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Params.img))}}
+      {{ $new := $original.Resize .Params.size }}
+      <img src="{{ $new.Permalink }}">
+    </div>
+    <div>
+      {{ .Params.text }}
+    </div>
   </main>
 {{ end }}
