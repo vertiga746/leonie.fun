@@ -11,13 +11,13 @@ imaging:
 
 menu:
   nav:
-    - name: Accueil
+    - name: Bonjour
       url: /
       weight: 1
     - name: Interventions
       url: /interventions/
       weight: 2
-    - name: Dessins
+    - name: Formes
       url: /dessins/
       weight: 3
     - name: Contact

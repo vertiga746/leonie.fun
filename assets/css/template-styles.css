@@ -2,8 +2,8 @@
 
 /* Fonts */
 @font-face {
-    font-family: 'Miriam Libre';
-    src: url('{{ "css/fonts/MiriamLibre-Regular.ttf" | absURL }}') format('ttf');
+    font-family: 'Rubik';
+    src: url('{{ "css/fonts/Rubik/Rubik-Regular.ttf" | absURL }}') format('ttf');
 }
 *,
 *::before,
@@ -115,7 +115,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: Miriam Libre, serif;
+    font-family: Rubik, sans-serif;
     line-height: 1.125;
 }
 h1 {
