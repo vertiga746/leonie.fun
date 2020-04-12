@@ -1,13 +1,17 @@
 {{ define "main" }}
-  <main id="main">
+  <main id="accueil">
     <h1>{{ .Title }}</h1>
-    <div>
+    <div class="row">
+      <div class="column left">
       {{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Params.img))}}
       {{ $new := $original.Resize .Params.size }}
       <img src="{{ $new.Permalink }}">
-    </div>
-    <div>
-      {{ .Params.text }}
+      </div>
+      <div class="column right">
+        <p>
+          {{ .Params.text }}
+        </p>
+      </div>
     </div>
   </main>
 {{ end }}

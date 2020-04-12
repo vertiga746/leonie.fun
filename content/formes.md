@@ -1,6 +1,6 @@
 ---
 date: "2020-04-07"
-title: "Dessins"
+title: "Formes"
 ---
 
 Les dessins de Léonie

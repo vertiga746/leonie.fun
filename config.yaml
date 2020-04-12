@@ -18,7 +18,7 @@ menu:
       url: /interventions/
       weight: 2
     - name: Formes
-      url: /dessins/
+      url: /formes/
       weight: 3
     - name: Contact
       url: /contact/
