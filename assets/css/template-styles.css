@@ -5,7 +5,7 @@
 font-family: 'Letter Gothic Std';
 font-style: normal;
 font-weight: normal;
-src: url('{{ "css/fonts/LetterGothicStd/LetterGothicStd.woff" | absURL }}') format('woff'), url('{{ "css/fonts/LetterGothicStd/LetterGothicStd-Bold.woff" | absURL }}') format('woff');
+src: url('{{ "css/fonts/LetterGothicStd/LetterGothicStd.woff" | absURL }}') format('woff'), local('Letter Gothic Std');
 }
 
 /* customization */
