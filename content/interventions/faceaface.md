@@ -1,6 +1,25 @@
 ---
 date: "2020-04-07"
 title: "Face à face"
-text: "Placerat habitant quisque aliquet erat sodales platea dui iaculis, parturient fringilla tempor hendrerit tristique laoreet libero felis maecenas, purus magnis egestas pharetra tortor dignissim cum. Malesuada arcu ullamcorper vel praesent ligula habitant sociosqu duis maecenas gravida ornare, phasellus imperdiet pretium nostra porttitor parturient inceptos varius natoque. Tempor sollicitudin magnis tempus sem conubia erat molestie quisque massa blandit quam, risus accumsan placerat facilisi himenaeos inceptos dui dapibus ligula mauris, pellentesque fringilla sodales dictum phasellus class habitasse donec faucibus lectus."
-caption: "à l'école primaire de saint-martin, vosges, du 12 au 14 septembre 2019"
+caption: "une fois dans l'univers"
+resources:
+- src: /images/faceaface/1.jpg
+  alt: face à face 1
+- src: /images/faceaface/2.jpg
+  alt: face à face 2
+- src: /images/faceaface/3.jpg
+  alt: face à face 3
+- src: /images/faceaface/4.jpg
+  alt: face à face 4
+- src: /images/faceaface/5.jpg
+  alt: face à face 5
 ---
+<p class="text">
+    Dans le cadre du festival diep~haven dont le thème est le portrait, l’atelier proposé par Léonie Bruxer entraîne une vision décomplexée de l’art et du dessin, en recherchant la spontanéité et non la technique.
+    <br/><br/>
+    Le dessin devient une forme instantanée et primitive d’expression.
+    <br/><br/>
+    Dans un esprit de jeu, des exercices mettront en avant le geste et non la technique. Il s’agit d’être le plus libre possible et de trouver son propre langage.
+    <br/><br/>
+    Le portrait peut venir de la personne en face, d’une photo de famille, d’une fenêtre extérieure, de personnes croisées dans des transports en commun…
+</p>

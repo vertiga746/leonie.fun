@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <main id="main">
+    <h1>
+      {{ .Title }}
+    </h1>
+    {{ .Content }}
+
+    {{ range $.Params.resources }}
+        {{ $img_data := newScratch }}
+        {{ $img_data.Set "alt" "" }}
+        {{ $img_path := .src }}
+
+        {{if isset . "alt" }} {{ $img_data.Set "alt" .alt }} {{ end }}
+
+        <article class="thumb">
+            <a href="{{ $img_path}}" class="image">
+                <img src="{{ $img_path }}" alt="{{ $img_data.Get "alt" }}"/>
+            </a>
+        </article>
+    {{ end }}
+    <div class="clear"></div>
+  </main>
+{{ end }}
