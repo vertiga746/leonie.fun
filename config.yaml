@@ -14,15 +14,18 @@ menu:
     - name: Bonjour
       url: /
       weight: 1
-    - name: Interventions
-      url: /interventions/
-      weight: 2
     - name: Formes
       url: /formes/
+      weight: 2
+    - name: Interventions
+      url: /interventions/
       weight: 3
-    - name: Contact
-      url: /contact/
+    - name: Expositions
+      url: /expositions/
       weight: 4
+    - name: Qui suis-je?
+      url: /contact/
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark

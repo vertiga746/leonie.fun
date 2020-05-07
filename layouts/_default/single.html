@@ -11,11 +11,16 @@
         {{ $img_path := .src }}
 
         {{if isset . "alt" }} {{ $img_data.Set "alt" .alt }} {{ end }}
+        {{if isset . "size" }} {{ $img_data.Set "size" .size }} {{ end }}
+        {{if isset . "caption" }} {{ $img_data.Set "caption" .caption }} {{ end }}
 
         <article class="thumb">
             <a href="{{ $img_path}}" class="image">
-                <img src="{{ $img_path }}" alt="{{ $img_data.Get "alt" }}"/>
+                <img src="{{ $img_path }}" class="{{ $img_data.Get "size" }}" alt="{{ $img_data.Get "alt" }}"/>
             </a>
+            {{ if $img_data.Get "caption" }}
+                <span class="caption {{ $img_data.Get "size" }}">{{ $img_data.Get "caption" }}</span>
+            {{ end }}
         </article>
     {{ end }}
     <div class="clear"></div>
