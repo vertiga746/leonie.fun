@@ -12,8 +12,7 @@ La fonctionnalité de gallerie d'image a été copié et inspiré du thème [Aut
 
 - Promenade promenademanifestante
   - [ ] ajouter caption - léonie
-  - [ ] ajouter texte - léonie
-
+  
 - Face à face
   - [ ] ajouter caption - léonie
 
