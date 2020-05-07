@@ -1,6 +1,7 @@
 ---
 date: "2020-04-07"
-title: "Exposition à Dôle (39)"
+title: "Liason équivoque"
+caption: "Dôle - 2016"
 resources:
 - src: /images/expositions/Dole/calais1.jpg
 - src: /images/expositions/Dole/calais2.jpg

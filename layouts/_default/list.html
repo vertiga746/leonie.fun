@@ -1,13 +1,14 @@
 {{ define "main" }}
   <main id="main">
     <h1>{{ .Title }}</h1>
+    {{ .Content }}
     <ul class="patterns-list">
     {{ range .Pages}}
       <li class=intervention>
         <h2>
           <a href="{{ .Permalink }}">
             {{ .Title }}
-          </a><br/>
+          </a>
           <span class="tags">{{ .Params.caption }}</span>
         </h2>
       </li>
