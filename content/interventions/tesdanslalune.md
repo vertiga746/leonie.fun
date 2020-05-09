@@ -2,6 +2,7 @@
 date: "2020-04-07"
 title: "T'es dans la lune"
 caption: "école primaire d'Habsterdick Stiring, mai 2017"
+weight: 3
 resources:
 - src: /images/tesdanslalune/3.jpg
   alt: salle d'exposition

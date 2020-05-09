@@ -2,6 +2,7 @@
 date: "2020-04-07"
 title: "Face à face"
 caption: "Dieppe, avril 2016"
+weight: 1
 resources:
 - src: /images/faceaface/1.jpg
   alt: face à face 1

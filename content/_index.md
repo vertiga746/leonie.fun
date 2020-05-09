@@ -1,7 +1,12 @@
 ---
 date: "2020-04-07"
 title: "Bonjour"
-text: "Après un DNSEP à l'Institut Supérieur des Beaux-Arts de Besançon, Léonie Bruxer continue de questionner le monde qui l'entoure. Elle multiplie les déplacement et rencontres qui sont les moteurs de son travail. Par des installations mêlant dessins, sculpture et écriture, elle affirme son inclinaison pour une poésie du quotidien, spontanée, parfois drôle et souvent marquée par ses engagements politiques."
+text: "Je m'appelle Léonie. Je dessine principalement et quotidiennement, mais
+aussi je découpe, je colle, je modèle, je fais parti de collectifs, je
+travaille seule, je bouge beaucoup, partout, je fais de l'illustration, de la
+cuisine, de la radio, du jardin.
+Je fais aussi des interventions artistiques dans différents milieux:
+détentions, quartiers, écoles… N'hésitez pas à me contacter !"
 img: "accueil.jpg"
 size: "700x"
 ---

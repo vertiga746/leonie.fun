@@ -101,6 +101,11 @@ h1 {
     margin-bottom: 1rem;
 }
 
+#main .subtitle {
+    margin-top:1rem;
+    text-align:center;
+}
+
 /* fin customization */
 
 *,
@@ -137,7 +142,8 @@ li + li,
 body,
 .main-and-footer,
 .poptrox-overlay,
-.poptrox-overlay *
+.poptrox-overlay *,
+.column
 {
     margin-top: 0;
 }

@@ -3,6 +3,7 @@ date: "2020-04-07"
 title: "Écrire ce
 qu'on ne peut pas dessiner, dessiner ce qu'on ne peut pas écrire"
 caption: "centre de détention de Oermingen, février 2017"
+weight: 2
 resources:
 - src: /images/oermingen/1.jpg
 - src: /images/oermingen/2.jpg
