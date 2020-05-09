@@ -5,7 +5,7 @@
       <div class="column left">
       {{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Params.img))}}
       {{ $new := $original.Resize .Params.size }}
-      <img src="{{ $new.Permalink }}">
+      <img src="{{ $new.Permalink }}" style="margin-top: 0.75rem">
       </div>
       <div class="column right">
         <p>

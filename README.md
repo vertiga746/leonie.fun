@@ -10,11 +10,5 @@ La fonctionnalité de gallerie d'image a été copié et inspiré du thème [Aut
 ## Todo
 - [ ] fond d'écran gris?? (voir ordi beni)
 
-- Promenade promenademanifestante
-  - [ ] ajouter caption - léonie
-  
-- Face à face
-  - [ ] ajouter caption - léonie
-
 - Page 404
     - [ ] ajouter un dessin pour personnaliser - léonie
