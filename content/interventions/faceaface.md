@@ -1,7 +1,7 @@
 ---
 date: "2020-04-07"
 title: "Face à face"
-caption: "une fois dans l'univers"
+caption: "Dieppe, avril 2016"
 resources:
 - src: /images/faceaface/1.jpg
   alt: face à face 1

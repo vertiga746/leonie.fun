@@ -1,17 +1,18 @@
 ---
 date: "2020-04-07"
-title: "Centre de détention de Oermingen"
-caption: ""
+title: "Écrire ce
+qu'on ne peut pas dessiner, dessiner ce qu'on ne peut pas écrire"
+caption: "centre de détention de Oermingen, février 2017"
 resources:
-- src: /images/prisondeoermingen/1.jpg
-- src: /images/prisondeoermingen/2.jpg
-- src: /images/prisondeoermingen/3.jpg
-- src: /images/prisondeoermingen/4.jpg
-- src: /images/prisondeoermingen/5.jpg
-- src: /images/prisondeoermingen/6.jpg
-- src: /images/prisondeoermingen/7.jpg
-- src: /images/prisondeoermingen/8.jpg
-- src: /images/prisondeoermingen/expo.jpg
+- src: /images/oermingen/1.jpg
+- src: /images/oermingen/2.jpg
+- src: /images/oermingen/3.jpg
+- src: /images/oermingen/4.jpg
+- src: /images/oermingen/5.jpg
+- src: /images/oermingen/6.jpg
+- src: /images/oermingen/7.jpg
+- src: /images/oermingen/8.jpg
+- src: /images/oermingen/expo.jpg
 ---
 <p class="text">
     L'atelier porte sur l'articulation texte/image. Grâce à

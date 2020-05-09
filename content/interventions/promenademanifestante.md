@@ -1,7 +1,7 @@
 ---
 date: "2020-04-07"
 title: "Promenade manifestante"
-caption: ""
+caption: "école Leclerc Schiltigheim, 2019"
 resources:
 - src: /images/promenademanifestante/3.jpg
   alt: promenade manifestante 3
