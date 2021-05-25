@@ -29,4 +29,21 @@ resources:
 
 - src: /images/dessins/avion.jpg
   size: large
+
+- src: /images/dessins/tigrevegetal-couleur.jpg
+- src: /images/dessins/Illustration-pour-un-livre-en-court.jpg
+- src: /images/dessins/POULE-C.jpg
+- src: /images/dessins/GRENOUILLE-C.jpg
+- src: /images/dessins/CHAT-C.jpg
+- src: /images/dessins/coloriage-pour-ma-grand-mere.jpg
+  size: large
+- src: /images/dessins/17.jpg
+- src: /images/dessins/4-hugoline-illustration-pour-un-livre-en-court.jpg
+  size: large
+- src: /images/dessins/3-hugoline-illustration-pour-un-livre-en-court.jpg
+  size: large
+- src: /images/dessins/2-hugoline-illustration-pour-un-livre-en-court.jpg
+  size: large
+- src: /images/dessins/illu-pour-Z-sur-l'école.jpg
+- src: /images/dessins/4.illustration-Z-ecole.jpg
 ---
