@@ -1,7 +1,6 @@
 ---
 date: "2020-04-07"
 title: "Autre Formes"
-weight: 2
 resources:
 - src: /images/autresformes/1.jpg
   caption: Spectacle de la compagnie Tartine Reverdy "dans les bois"
@@ -25,16 +24,12 @@ resources:
   caption: Lélé et Toto font des dessins
 - src: /images/autresformes/stickers-juste-pour-rigoler.jpg
   caption: Autocollant juste pour rigoler
-- src: /images/autresformes/affiche-pizza-du-futur.jpg
-  caption: Affiche pizza du futur
-- src: /images/autresformes/affiche-pizza-du-turfu.jpg
-  caption: Affiche pizza du turfu
-- src: /images/autresformes/affiche-anti-nucleaire.jpg
-  caption: Affiche Antinucléaire
-- src: /images/autresformes/illlustration-pour-le-magasine-Z-1.jpg
-  caption: Illustration pour le magazine Z
-- src: /images/autresformes/illlustration-pour-le-magasine-Z-2.jpg
-  caption: Illustration pour le magazine Z
-- src: /images/autresformes/affiches-concert-enfance-sauvage.jpg
-  caption: Affiche concert d'Enfance Sauvage
+- src: /images/autresformes/instruction.jpg
+  caption: Instruction
+- src: /images/autresformes/dessinmural1.jpg
+  caption: Dessin mural 1
+- src: /images/autresformes/dessinmural2-1.jpg
+  caption: Dessin mural 2
+- src: /images/autresformes/dessinmural2-2.jpg
+  caption: Dessin mural 2 bis
 ---
