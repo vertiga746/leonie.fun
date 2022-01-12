@@ -7,8 +7,3 @@ Le site utilise [Cupper](https://themes.gohugo.io/cupper-hugo-theme/) comme thè
 
 La fonctionnalité de gallerie d'image a été copié et inspiré du thème [AutoPhugo](https://themes.gohugo.io/autophugo/)
 
-## Todo
-- [ ] fond d'écran gris?? (voir ordi beni)
-
-- Page 404
-    - [ ] ajouter un dessin pour personnaliser - léonie
