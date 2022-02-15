@@ -13,6 +13,11 @@ resources:
   caption: Illustration pour le magazine Z
 - src: /images/illustrations/illlustration-pour-le-magasine-Z-2.jpg
   caption: Illustration pour le magazine Z
+- src: /images/illustrations/illu-pour-Z-sur-l'école.jpg
+  caption: Illustration pour le magazine Z sur l'éducation
+- src: /images/illustrations/4.illustration-Z-ecole.jpg
+  caption: Illustration pour la magazine Z sur l'éducation
 - src: /images/illustrations/affiches-concert-enfance-sauvage.jpg
   caption: Affiche concert d'Enfance Sauvage
 ---
+

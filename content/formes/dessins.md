@@ -44,6 +44,4 @@ resources:
   size: large
 - src: /images/dessins/2-hugoline-illustration-pour-un-livre-en-court.jpg
   size: large
-- src: /images/dessins/illu-pour-Z-sur-l'école.jpg
-- src: /images/dessins/4.illustration-Z-ecole.jpg
 ---
