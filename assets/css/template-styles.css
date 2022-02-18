@@ -106,6 +106,10 @@ h1 {
     text-align:center;
 }
 
+#main .video {
+    margin: 2rem
+}
+
 /* fin customization */
 
 *,

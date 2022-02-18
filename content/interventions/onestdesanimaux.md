@@ -12,7 +12,6 @@ resources:
   alt: on est des animaux 2
 - src: /images/onestdesanimaux/3.jpg
   alt: on est des animaux 3
-youtube: 1O6PvXbhH8Q
 ---
 <p class="text">
     Dans le spectacle de Tartine, il y a plein d'images. Une manifestation avec des pancartes, des images du Japon, d'Inde, d'Alsace et même des odeurs de forêt (oui oui !). Il y a aussi beaucoup d’animaux ! Un loup bien sûr, mais aussi une coccinelle, un zèbre, une vache, des oiseaux et une quantité d’animaux sauvage !
@@ -25,3 +24,6 @@ youtube: 1O6PvXbhH8Q
     <br/><br/>
     On a proposé un atelier mélangeant dessin, peinture, construction, jeu, théâtre, chant, danse et vidéo, et c’était trop bien.
 </p>
+<div class="video">
+  {{< youtube 1O6PvXbhH8Q >}}
+</div>
