@@ -2,7 +2,7 @@
 date: "2020-04-07"
 title: "Walls and Windows"
 caption: "Bruxelles - 2016"
-weight: 3
+weight: 40
 resources:
 - src: /images/expositions/bruxelles/fenetre-dessin-1.jpg
 - src: /images/expositions/bruxelles/fenetre-bois.jpg

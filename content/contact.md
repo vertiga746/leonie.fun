@@ -2,49 +2,10 @@
 date: "2020-04-07"
 title: "Qui suis-je?"
 ---
-<b>Vie quotidienne = Révolution permanente</b>
-<p class="text">
-J’aime faire, j’aime être, j’aime dessiner, j’aime la terre.</br>
-Mon dessin est projeté. Les formes sont simples. Je dessine</br>
-comme je mange. Les mots sont des dessins, et les dessins</br>
-des phrases. Grâce à eux, je parle. C’est mon rapport au monde,</br>
-mon rapport aux gens et les rapports qu’ils ont entre eux.</br>
-Je pars de situations intimes et je les installe face aux autres.</br>
-J’écoute les récits. Je me sens concernée.</br>
-Je porte attention aux histoires qui m’encerclent.</br>
-Je dessine des détails, des objets, des ambiances.</br>
-J’isole la force d’un instant court pour le sublimer.</br>
-</br>
-Je marche, j’imagine, je fais du stop, je voyage, je suis</br>
-dans le train. Le quotidien est un vecteur d’idées, de dessins,</br>
-de mots, de textes, de combinaisons. C’est une grille de lecture</br>
-personnelle que je partage.</br>
-Les détails de nos vies sont des matières transformables</br>
-par l’action, le geste.</br>
-Figer des impressions.</br>
-J’aime jouer avec les mots et les images, trouver de nouvelles</br>
-formes. Mélanger les deux, inviter l’autre à l’amusement.</br>
-Le dessin peut être une vidéo sans mouvement, un bruit</br>
-ou une odeur.</br>
-</br>
-Il y a deux temps. D’abord un temps d’action, de mouvement,</br>
-de récolte d’informations sans rendu précis. L’espace, empli</br>
-de foule, de mots et d’images, représente pour moi un dessin</br>
-ordinaire et journalier.</br>
-Vient ensuite un temps plus personnel où je regarde toutes</br>
-ces choses et où je joue à trouver des liens, des conversations</br>
-à mettre en relation, à composer.</br>
-J’utilise l’espace d’exposition comme une installation de mots,</br>
-de volumes, de peintures, de dessins.</br>
-J’aime la liberté du dessin, la liberté de dessiner partout,</br>
-la liberté d’aller et venir.</br>
-</br>
-J’aime les mots qui parlent, la poésie qui crie.</br>
-</br>
-Aujourd’hui, être et faire seule ne me suffit plus.</br>
-Créer du collectif (dans l’Art et dans la vie) me motive,</br>
-me porte et me questionne.</br>
-</br>
-</br>
-Si tu veux m'écrire, leonie.bruxer[at]gmail.com
-</p>
+
+Après un DNSEP à l’ISBA (Institut des Beaux Arts de Besançon) où je me suis questionnée sur la place du dessin dans le quotidien, je me suis dirigée vers le CFPI (Centre de Formation pour Plasticien Intervenant) à la HEAR (Haute Ecole d’Art du Rhin à Strasbourg). J’avais envie de partager mes réflexions artistiques avec un public varié (école primaire, quartier en atelier parents-enfants, centre de détention...). Après plusieurs années d’intervention et de création nomade, j’ai voulu créer mon propre atelier. J’ai eu l’intuition que je devais me rapprocher de la matière, que j’avais besoin de trouver des utilités à mes créations et de changer de support.</br>
+La céramique que j’avais rencontré à l’ISBA s’est alors imposée et je suis entrée à l’IEAC.</br></br>
+
+J’ai toujours habité en collectif, en passant beaucoup de temps à la cuisine, pour faire de grands repas. Mon moment préféré était l’instant où j’installais la table, ou je mettais toute la nourriture dans des grands plats de service trouvés chez Emmaüs. Je suis arrivé à l’IEAC avec ça, des envies de grands plats, mais aussi des envies de décors, de dessins, de mots.</br></br>
+
+Je voulais en profiter pour raconter quelque chose. Mais raconter quoi ? Des petits mots sortis d’une conversation, une bribe de poésie, une chose qui m’énerve ou qui me révolte, un mot qu’on trouve joli. Des petits et des grands sujets, à égalité.</br>

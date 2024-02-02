@@ -1,7 +1,7 @@
 ---
 date: "2020-04-07"
 title: "Illustrations"
-weight: 2
+weight: 30
 resources:
 - src: /images/illustrations/affiche-pizza-du-futur.jpg
   caption: Affiche pizza du futur
@@ -20,4 +20,3 @@ resources:
 - src: /images/illustrations/affiches-concert-enfance-sauvage.jpg
   caption: Affiche concert d'Enfance Sauvage
 ---
-

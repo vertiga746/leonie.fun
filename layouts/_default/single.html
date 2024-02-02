@@ -3,7 +3,9 @@
     <h1>
       {{ .Title }}
     </h1>
-    {{ .Content }}
+    {{ if not $.Params.content_after_images }}
+      {{ .Content }}
+    {{ end }}
 
     {{ range $.Params.resources }}
         {{ $img_data := newScratch }}
@@ -24,5 +26,8 @@
         </article>
     {{ end }}
     <div class="clear"></div>
+    {{ if $.Params.content_after_images }}
+      {{ .Content }}
+    {{ end }}
   </main>
 {{ end }}

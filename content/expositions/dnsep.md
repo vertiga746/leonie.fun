@@ -2,7 +2,7 @@
 date: "2020-04-07"
 title: "DNSEP"
 caption: "Besançon - 2015"
-weight: 1
+weight: 20
 resources:
 - src: /images/expositions/DNSEP/1.jpg
 - src: /images/expositions/DNSEP/ceramique1.jpg
