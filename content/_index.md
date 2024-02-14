@@ -7,5 +7,5 @@ size: "700x"
 ---
 <p>
     Moi c'est Léonie.<br>
-    Parfois je dessine, parfois je travail l'argile dans mon atelier à Salins-les-bains, parfois je me déplace dans des classes pour faire des atelier, et, de temps en temps, je mélange tout.
+    Parfois je dessine, parfois je travaille l'argile dans mon atelier à Salins-les-bains, parfois je me déplace dans des classes pour faire des atelier, et, de temps en temps, je mélange tout.
 </p>
